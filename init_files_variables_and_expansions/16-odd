@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Line 1\nLine 3\nLine 5\nLine 7\nLine 9" > input_file
+echo -e 'NR % 2 == 1 > input_file
