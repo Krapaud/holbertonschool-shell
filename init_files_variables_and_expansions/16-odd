@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e 'NR % 2 == 1 > input_file
+echo -e 'NR % 2 == 1' > input_file
